@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>My Todo App</h1>
-        <p>Start building your amazing todo application!</p>
+        <h1>My To-Do App</h1>
+        <p>Get things done with ease!</p>
       </header>
       <main>
         {/* Todo components will go here */}
         <div className="todo-container">
-          <p>Your todo components will be added here</p>
+          <p>Welcome to my To-Do App!</p>
         </div>
       </main>
     </div>
